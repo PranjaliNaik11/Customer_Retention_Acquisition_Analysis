@@ -1,4 +1,5 @@
 # Customer Retention and Acquisition Analysis
+[**Open the Power BI project file**](https://app.powerbi.com/view?r=eyJrIjoiM2UzMGYxNjItZTFhOS00NTU5LTkwYzMtZmIxODdjYzY1YTg3IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=ReportSectionc91a68ee44adc2b93a2e)
 
 ## Project Overview
 
@@ -75,8 +76,6 @@ Determine if additional data is needed to improve the analysis and insights gene
   - Refine marketing and promotional strategies.
   - Improve pricing models and service offerings.
 
-
-[**Open the Power BI project file**](https://app.powerbi.com/view?r=eyJrIjoiM2UzMGYxNjItZTFhOS00NTU5LTkwYzMtZmIxODdjYzY1YTg3IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=ReportSectionc91a68ee44adc2b93a2e)
 
 **Review the dashboard and report sections** for insights and recommendations.
 
