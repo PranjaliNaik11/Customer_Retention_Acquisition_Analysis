@@ -1,11 +1,11 @@
 # Customer Retention and Acquisition Analysis
 [**Open the Power BI project file**](https://app.powerbi.com/view?r=eyJrIjoiM2UzMGYxNjItZTFhOS00NTU5LTkwYzMtZmIxODdjYzY1YTg3IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=ReportSectionc91a68ee44adc2b93a2e)
 
-## Project Overview
+## Project Overview:
 
 Model Hotel Group is seeking to accelerate its revenue growth by increasing existing customer spend and retention as well as developing sustainable new customer acquisition. This project utilizes Power BI to analyze customer profiles and spending behaviors to identify key opportunities and actionable insights.
 
-## Dataset Description
+## Dataset Description:
 
 The provided dataset includes all room booking transactions of guests from Model Hotel Group, which operates 9 locations worldwide. The dataset includes the following information:
 
