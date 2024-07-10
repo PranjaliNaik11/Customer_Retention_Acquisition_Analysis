@@ -31,7 +31,7 @@ The provided dataset includes all room booking transactions of guests from Model
 ### 1. Revenue Growth Opportunity
 Identify where the greatest revenue growth opportunity lies based on customer profiles and spending behavior.
 
-### 2. Customer Segmentation
+### 2. Customer Segmentation:
 Develop a set of customer segments and provide the rationale for each segment.
 
 ### 3. Hypotheses for Actionable Insights
