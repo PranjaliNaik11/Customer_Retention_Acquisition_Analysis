@@ -26,7 +26,7 @@ The provided dataset includes all room booking transactions of guests from Model
 - **Spa spend:** Spend on spa treatments and products.
 - **Other spend:** Spend on other items (transportation, tours, laundry, internet, etc.).
 
-## Analysis Objectives
+## Analysis Objectives:
 
 ### 1. Revenue Growth Opportunity
 Identify where the greatest revenue growth opportunity lies based on customer profiles and spending behavior.
