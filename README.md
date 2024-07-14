@@ -28,7 +28,7 @@ The provided dataset includes all room booking transactions of guests from Model
 
 ## Analysis Objectives:
 
-### 1. Revenue Growth Opportunity
+### 1. Revenue Growth Opportunity:
 Identify where the greatest revenue growth opportunity lies based on customer profiles and spending behavior.
 
 ### 2. Customer Segmentation:
