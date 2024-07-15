@@ -34,7 +34,7 @@ Identify where the greatest revenue growth opportunity lies based on customer pr
 ### 2. Customer Segmentation:
 Develop a set of customer segments and provide the rationale for each segment.
 
-### 3. Hypotheses for Actionable Insights
+### 3. Hypotheses for Actionable Insights:
 Identify three hypotheses to test in order to generate actionable insights. Describe the statistical analysis to be applied.
 
 ### 4. Additional Data Requirements
