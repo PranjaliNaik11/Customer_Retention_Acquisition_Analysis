@@ -37,7 +37,7 @@ Develop a set of customer segments and provide the rationale for each segment.
 ### 3. Hypotheses for Actionable Insights:
 Identify three hypotheses to test in order to generate actionable insights. Describe the statistical analysis to be applied.
 
-### 4. Additional Data Requirements
+### 4. Additional Data Requirements:
 Determine if additional data is needed to improve the analysis and insights generated:
    - What types of additional data are needed?
    - Where might this data be found?
