@@ -62,7 +62,7 @@ Determine if additional data is needed to improve the analysis and insights gene
 - **Hypothesis 3:** Leisure travelers spend more on F&B and spa services than business travelers.
   - **Statistical Test:** T-test to compare mean spends between business and leisure travelers.
 
-### 4. Additional Data Requirements
+### 4. Additional Data Requirements:
 - **Additional Data Needed:**
   - Customer feedback and satisfaction scores.
   - Detailed demographic information (e.g., income level, occupation).
