@@ -1,5 +1,5 @@
 # Customer Retention and Acquisition Analysis
-[**Open the Power BI project file**](https://app.powerbi.com/view?r=eyJrIjoiNWIwZGY0NmYtMTI2ZS00MGQxLWIwMDUtYzk3YjkwODg3OWExIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
+[**Open the Power BI project file**](https://app.powerbi.com/view?r=eyJrIjoiNWIwZGY0NmYtMTI2ZS00MGQxLWIwMDUtYzk3YjkwODg3OWExIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=979ef7b254f2ac7aee0f)
 
 ## Project Overview:
 
